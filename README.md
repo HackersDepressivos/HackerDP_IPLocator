@@ -19,7 +19,7 @@ Obs:
 
 Se quiser modificar o programa, fique a vontade!
 
-Eu não sou programdor!
+Eu não sou programador!
 
 Utilize essa ferramenta para fins educacionais!!!
 
