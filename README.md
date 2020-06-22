@@ -5,7 +5,7 @@ Seja bem vindo!
 
 A ferramenta não tem nada de especial, básicamente pesquisa informações de um determinado IP utilizando uma API de consulta.
 
-Para poder executar o programa sem nenhum tipo de erro, você deve seguir as seguintes orientações:
+Para poder executar o programa sem nenhum tipo de erro, você deve seguir os seguintes passos:
 
 1 - Ter o sistema operacional Linux ou uma IDE;
 2 - Ter instalado o Python 3;
