@@ -20,7 +20,7 @@ import pyfiglet
 
 from pyfiglet import Figlet
 v = Figlet(font='big')
-print (v.renderText('Hacker Depressvio'))
+print (v.renderText('Hacker Depressivo'))
 
 
 
